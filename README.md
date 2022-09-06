@@ -11,7 +11,7 @@ npm start
 # Download the code
 https://github.com/IngridRadu/Weather-App.git
 
-#Quick look
+# Quick look
 
 Search Component
 
