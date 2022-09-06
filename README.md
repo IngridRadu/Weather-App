@@ -2,7 +2,7 @@
 A React application with login interface, where users can search for weather in a city or multiple cities.
 The cities can then be sorted by temperature or by city name, also a city can be deleted when the user wants.
 
-## Install
+# Install
 npm install
 
 ### Run
